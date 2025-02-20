@@ -51,3 +51,8 @@
 [20Feb2025 22:44:52.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
 [20Feb2025 22:44:52.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
 [20Feb2025 22:45:52.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[20Feb2025 22:52:34.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.247.194.150:57711] logged in with entity id 1569 at (361.00254013755267, 63.0, 94.42833122016506)
+[20Feb2025 22:52:34.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
+[20Feb2025 22:53:01.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1808, l='ServerLevel[world]', x=221.57, y=68.56, z=161.49] died, message: 'Villager was slain by Zombie'
+[20Feb2025 22:53:17.653] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1807, l='ServerLevel[world]', x=221.04, y=68.00, z=158.37] died, message: 'Villager was slain by Zombie'
+[20Feb2025 22:53:24.805] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1806, l='ServerLevel[world]', x=220.56, y=68.00, z=158.13] died, message: 'Nitwit was slain by Zombie Villager'
