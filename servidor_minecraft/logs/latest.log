@@ -1,296 +1,53 @@
-[19Feb2025 00:02:24.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
-[19Feb2025 00:02:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
-[19Feb2025 00:05:27.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
-[19Feb2025 00:05:27.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
-[19Feb2025 00:06:27.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[19Feb2025 00:06:38.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:41749] logged in with entity id 25702 at (198.40694364452236, 64.0, 190.9381315166859)
-[19Feb2025 00:06:38.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
-[19Feb2025 00:07:08.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! -2.6677026121672895,-1.044812420399012,9.910281196209723
-[19Feb2025 00:08:24.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
-[19Feb2025 00:08:24.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
-[19Feb2025 00:09:11.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:47247] logged in with entity id 26189 at (194.70631787301465, 64.0, 198.70573567634898)
-[19Feb2025 00:09:11.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
-[19Feb2025 00:10:26.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
-[19Feb2025 00:10:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
-[19Feb2025 00:10:33.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaDareichon[/127.12.43.16:36313] logged in with entity id 26605 at (5.5, 103.0, 10.5)
-[19Feb2025 00:10:33.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon joined the game
-[19Feb2025 00:11:35.035] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@58dbeb06[id=bda0b02a-c573-38c5-9764-e3535701943b,name=JoseAlvarez,properties={}] lost connection: Disconnected
-[19Feb2025 00:11:46.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:58021] logged in with entity id 27035 at (203.55318080259656, 64.1212968405392, 173.55905508548028)
-[19Feb2025 00:11:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
-[19Feb2025 00:12:33.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> 204, 171
-[19Feb2025 00:14:10.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaDareichon lost connection: Disconnected
-[19Feb2025 00:14:10.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon left the game
-[19Feb2025 00:22:08.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaDareichon[/127.12.43.16:44207] logged in with entity id 28912 at (105.7650467629818, 94.0, -7.045913574697033)
-[19Feb2025 00:22:08.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon joined the game
-[19Feb2025 00:22:39.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> paseme de nuevo las coords malparido
-[19Feb2025 00:22:59.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> 204, 171
-[19Feb2025 00:23:13.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Stone Age]
-[19Feb2025 00:23:42.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Getting an Upgrade]
-[19Feb2025 00:23:47.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
-[19Feb2025 00:23:47.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
-[19Feb2025 00:25:56.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Sweet Dreams]
-[19Feb2025 00:26:02.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:45747] logged in with entity id 30020 at (202.7603882448698, 65.0, 170.54397388420625)
-[19Feb2025 00:26:02.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
-[19Feb2025 00:27:50.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Acquire Hardware]
-[19Feb2025 00:28:32.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Isn't It Iron Pick]
-[19Feb2025 00:28:49.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Isn't It Iron Pick]
-[19Feb2025 00:28:56.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Suit Up]
-[19Feb2025 00:30:10.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:38891] logged in with entity id 30896 at (1881.1489946481845, 93.49520087700593, 671.4643718512873)
-[19Feb2025 00:30:10.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
-[19Feb2025 00:31:25.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=174, y=71, z=139} BlockPos{x=174, y=69, z=139}
-[19Feb2025 00:31:25.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=174, y=71, z=139} BlockPos{x=174, y=69, z=139}
-[19Feb2025 00:31:25.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=71, z=140} BlockPos{x=174, y=69, z=139}
-[19Feb2025 00:33:18.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
-[19Feb2025 00:33:18.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
-[19Feb2025 00:34:00.836] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ac0f26[id=bda0b02a-c573-38c5-9764-e3535701943b,name=JoseAlvarez,properties={}] lost connection: Disconnected
-[19Feb2025 00:34:26.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:59151] logged in with entity id 33536 at (191.18185379787118, 59.0, 179.1069762624326)
-[19Feb2025 00:34:26.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
-[19Feb2025 00:35:21.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Diamonds!]
-[19Feb2025 00:36:56.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Not Today, Thank You]
-[19Feb2025 00:37:03.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Monster Hunter]
-[19Feb2025 00:38:46.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
-[19Feb2025 00:38:46.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
-[19Feb2025 00:39:12.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> zzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[19Feb2025 00:39:27.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> me pesa el culo
-[19Feb2025 00:39:56.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
-[19Feb2025 00:39:56.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
-[19Feb2025 00:40:15.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> listo full hierro
-[19Feb2025 00:40:54.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:54465] logged in with entity id 38047 at (193.67219020925802, 60.0, 188.29641965033164)
-[19Feb2025 00:40:54.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
-[19Feb2025 00:41:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> un mariconcito se unió
-[19Feb2025 00:41:29.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! -1.4987005903923603,0.0,9.988830215684004
-[19Feb2025 00:44:10.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
-[19Feb2025 00:44:10.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
-[19Feb2025 00:44:59.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:59825] logged in with entity id 39068 at (145.69321516138817, 59.0, 267.99416439670705)
-[19Feb2025 00:44:59.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
-[19Feb2025 00:46:08.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Hot Stuff]
-[19Feb2025 00:48:21.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon was slain by Enderman
-[19Feb2025 00:48:41.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez was slain by MaDareichon
-[19Feb2025 00:50:21.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaDareichon lost connection: Disconnected
-[19Feb2025 00:50:21.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon left the game
-[19Feb2025 00:50:36.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaDareichon[/127.12.43.16:57583] logged in with entity id 40924 at (156.75000861911636, 30.0, 379.4615209830675)
-[19Feb2025 00:50:36.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon joined the game
-[19Feb2025 00:51:44.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=65, z=212} BlockPos{x=163, y=63, z=212}
-[19Feb2025 00:51:44.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=65, z=212} BlockPos{x=163, y=63, z=212}
-[19Feb2025 00:52:46.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! 4.993763948853939,2.121296840539202,-8.547327981609499
-[19Feb2025 00:53:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez was slain by MaDareichon
-[19Feb2025 00:54:16.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/39078, l='ServerLevel[world]', x=211.17, y=66.00, z=148.24] died, message: 'Armorer was slain by MaDareichon'
-[19Feb2025 00:55:01.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [A Seedy Place]
-[19Feb2025 00:55:33.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> oe re malparido hable
-[19Feb2025 00:56:28.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> pongase la pechera que le di
-[19Feb2025 00:56:45.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! -3.2845757771327158,-3.176759275064242,-8.92823582232461
-[19Feb2025 00:57:35.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> me voy
-[19Feb2025 00:57:39.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> me vas a extrañar yo sé que si
-[19Feb2025 00:57:44.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> :(
-[19Feb2025 00:57:47.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaDareichon lost connection: Disconnected
-[19Feb2025 00:57:47.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon left the game
-[19Feb2025 00:58:43.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [A Seedy Place]
-[19Feb2025 01:11:28.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! 1.4804394149125528,-1.8232407249357578,-9.968196342563715
-[19Feb2025 01:21:52.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! 6.278852041668614,-2.878703159460798,-7.595175021307369
-[19Feb2025 01:23:47.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
-[19Feb2025 01:23:47.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
-[19Feb2025 01:24:23.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:60629] logged in with entity id 48373 at (189.95076298463286, 59.0, 176.84502219002405)
-[19Feb2025 01:24:23.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
-[19Feb2025 01:25:00.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/48396, l='ServerLevel[world]', x=261.60, y=70.00, z=151.49] died, message: 'Cartographer was slain by Zombie'
-[19Feb2025 01:29:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Not Today, Thank You]
-[19Feb2025 01:31:17.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez was blown up by Creeper
-[19Feb2025 01:37:51.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=64, z=161} BlockPos{x=204, y=63, z=161}
-[19Feb2025 01:50:58.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Best Friends Forever]
-[19Feb2025 02:32:42.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=69, z=159} BlockPos{x=222, y=67, z=159}
-[19Feb2025 02:32:42.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=69, z=159} BlockPos{x=222, y=67, z=159}
-[19Feb2025 02:32:42.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=68, z=159} BlockPos{x=222, y=67, z=159}
-[19Feb2025 02:32:42.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=68, z=159} BlockPos{x=222, y=67, z=159}
-[19Feb2025 02:39:54.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:46653] logged in with entity id 62996 at (2714.709790345673, 63.796735600668704, 49.73502030591366)
-[19Feb2025 02:39:54.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
-[19Feb2025 02:40:00.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> a
-[19Feb2025 02:40:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> econtraron taiga?
-[19Feb2025 02:40:27.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> estamos dece gran webon
-[19Feb2025 02:40:31.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Briian22[/127.112.79.233:52715] logged in with entity id 63599 at (3.5, 106.0, 6.5)
-[19Feb2025 02:40:31.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 joined the game
-[19Feb2025 02:40:38.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> salganse
-[19Feb2025 02:40:41.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Briian22 lost connection: Disconnected
-[19Feb2025 02:40:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 left the game
-[19Feb2025 02:40:41.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> pero ando en dc con mi primito p
-[19Feb2025 02:40:43.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
-[19Feb2025 02:40:43.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
-[19Feb2025 02:40:54.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> pero que entre con nosotros pe
-[19Feb2025 02:40:55.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:44545] logged in with entity id 63808 at (2632.300000011921, 70.0, -9.282234779136667)
-[19Feb2025 02:40:55.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
-[19Feb2025 02:40:56.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> sin pena
-[19Feb2025 02:40:57.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Briian22[/127.112.79.233:50985] logged in with entity id 64002 at (3.5, 106.0, 6.5)
-[19Feb2025 02:40:57.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 joined the game
-[19Feb2025 02:40:58.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> pero que entre con nosotros pe
-[19Feb2025 02:40:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> sin pena
-[19Feb2025 02:41:02.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> no comemos
-[19Feb2025 02:41:21.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> todavia no esta lo de skin set?
-[19Feb2025 02:42:08.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> no hay taiga tmr
-[19Feb2025 02:42:12.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> xd
-[19Feb2025 02:42:23.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> te gusta ese bioma?
-[19Feb2025 02:42:33.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> por el arbol de abeto p
-[19Feb2025 02:42:46.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> pa tener bastante madera
-[19Feb2025 02:42:57.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> lo encontre
-[19Feb2025 02:42:59.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> siuuuuuuuuuuuuuuuuuuu
-[19Feb2025 02:43:05.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> ya hay un aldeanito siuuuuuuuuuuuuuu
-[19Feb2025 02:43:12.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> funciono la granja
-[19Feb2025 02:43:14.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> taiga no es donde salen los de abeto
-[19Feb2025 02:43:14.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> q rici¿ooooooo
-[19Feb2025 02:43:17.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> soy un capo
-[19Feb2025 02:46:33.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Acquire Hardware]
-[19Feb2025 02:46:50.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Isn't It Iron Pick]
-[19Feb2025 02:47:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> ya voy pa la casa
-[19Feb2025 02:47:10.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> ok
-[19Feb2025 02:47:17.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> estoy a 3k de bloques de distancia
-[19Feb2025 02:47:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> vamos a minar nosotros
-[19Feb2025 02:47:30.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> a conseguir el hierro que gaste
-[19Feb2025 02:47:41.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> el alejo solo entra a matarme y a joder man
-[19Feb2025 02:47:47.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> serio?
-[19Feb2025 02:47:53.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> si weon
-[19Feb2025 02:47:55.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> menos mal no deje q cree en lagternos
-[19Feb2025 02:48:07.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> me comenzo a matar el gay
-[19Feb2025 02:48:14.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> y me retraso con la granja
-[19Feb2025 02:48:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> y me robo toda la comida tambien
-[19Feb2025 02:50:16.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Stone Age]
-[19Feb2025 02:52:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> mache vamos a salirnos un momento para que partaco duerma y se haga de dia
-[19Feb2025 02:52:49.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
-[19Feb2025 02:52:49.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
-[19Feb2025 02:52:50.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Briian22 lost connection: Disconnected
-[19Feb2025 02:52:50.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 left the game
-[19Feb2025 02:52:56.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enderman791[/127.60.248.107:50511] logged in with entity id 69475 at (9.5, 120.0, -0.5)
-[19Feb2025 02:52:56.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 joined the game
-[19Feb2025 02:53:05.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Briian22[/127.112.79.233:60897] logged in with entity id 69735 at (30.92391802369144, 70.0, 135.1285786359099)
-[19Feb2025 02:53:05.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 joined the game
-[19Feb2025 02:53:19.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:48009] logged in with entity id 69931 at (2365.7237809057438, 92.1212968405392, -260.8046746540801)
-[19Feb2025 02:53:19.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
-[19Feb2025 02:53:40.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> ElMache porque no te metes al dc?
-[19Feb2025 02:53:52.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> ahi voy
-[19Feb2025 02:55:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Stone Age]
-[19Feb2025 02:56:17.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Getting an Upgrade]
-[19Feb2025 02:59:23.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Disconnected
-[19Feb2025 02:59:23.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
-[19Feb2025 02:59:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> encontre dark forest
-[19Feb2025 02:59:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> ergaa
-[19Feb2025 03:00:12.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> tremendo spawn no
-[19Feb2025 03:00:16.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> se
-[19Feb2025 03:00:17.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> se
-[19Feb2025 03:01:49.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
-[19Feb2025 03:01:49.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
-[19Feb2025 03:01:58.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> Enderman791 andas como lejos
-[19Feb2025 03:02:02.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:46035] logged in with entity id 77874 at (201.3707623226965, 64.0, 173.22339356075148)
-[19Feb2025 03:02:02.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
-[19Feb2025 03:02:14.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:40683] logged in with entity id 78219 at (1711.699999988079, 76.0, -316.27307427051244)
-[19Feb2025 03:02:14.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
-[19Feb2025 03:02:21.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> ni modo acabo de conectarme
-[19Feb2025 03:02:24.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
-[19Feb2025 03:02:24.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
-[19Feb2025 03:02:27.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> mira para atras
-[19Feb2025 03:02:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> a la izquierda
-[19Feb2025 03:02:46.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> sigue para alla derecho
-[19Feb2025 03:02:55.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> y llegas a donde estamos nosotros
-[19Feb2025 03:03:31.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:47505] logged in with entity id 79051 at (1715.300000011921, 80.0, -321.3720438792004)
-[19Feb2025 03:03:31.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
-[19Feb2025 03:05:14.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> donde verga andanç
-[19Feb2025 03:06:58.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Monster Hunter]
-[19Feb2025 03:07:19.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Monster Hunter]
-[19Feb2025 03:11:00.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Sweet Dreams]
-[19Feb2025 03:14:53.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enderman791 lost connection: You logged in from another location
-[19Feb2025 03:14:53.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 left the game
-[19Feb2025 03:14:54.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enderman791[/127.60.248.107:39183] logged in with entity id 85928 at (88.58627028506812, 8.0, 359.3859369306386)
-[19Feb2025 03:14:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 joined the game
-[19Feb2025 03:15:18.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1015, y=64, z=-370} BlockPos{x=1016, y=62, z=-371}
-[19Feb2025 03:16:01.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> creo que encontre una trial chamba
-[19Feb2025 03:16:06.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> S ERIO?
-[19Feb2025 03:16:13.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> creo
-[19Feb2025 03:16:24.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> sip
-[19Feb2025 03:16:27.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> si es
-[19Feb2025 03:17:00.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
-[19Feb2025 03:17:00.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
-[19Feb2025 03:18:37.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> enva
-[19Feb2025 03:18:42.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> q
-[19Feb2025 03:18:43.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> porq te llamas enderman
-[19Feb2025 03:18:49.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> no sabia que eras vos:v
-[19Feb2025 03:19:14.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> lo tengo desde que empeze a jugar minecraft java
-[19Feb2025 03:19:24.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> sabes donde hay mina?
-[19Feb2025 03:19:37.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> de hecho estoy en una
-[19Feb2025 03:19:45.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> mandas coords?
-[19Feb2025 03:20:53.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> x 74 z 7 y 358
-[19Feb2025 03:21:42.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Acquire Hardware]
-[19Feb2025 03:22:11.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Isn't It Iron Pick]
-[19Feb2025 03:23:10.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Diamonds!]
-[19Feb2025 03:23:29.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> 6 diamantes nice
-[19Feb2025 03:24:55.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 was slain by Zombie
-[19Feb2025 03:25:02.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> xd
-[19Feb2025 03:25:19.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 burned to death
-[19Feb2025 03:25:23.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> xd
-[19Feb2025 03:25:41.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 was slain by Zombie
-[19Feb2025 03:25:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 burned to death
-[19Feb2025 03:26:39.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Hot Stuff]
-[19Feb2025 03:27:00.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Suit Up]
-[19Feb2025 03:28:21.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> te exploto un creeper
-[19Feb2025 03:29:03.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Diamonds!]
-[19Feb2025 03:33:14.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enderman791 lost connection: Disconnected
-[19Feb2025 03:33:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 left the game
-[19Feb2025 03:33:36.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Cover Me with Diamonds]
-[19Feb2025 03:39:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Diamonds!]
-[19Feb2025 03:47:41.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Briian22 lost connection: Disconnected
-[19Feb2025 03:47:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 left the game
-[19Feb2025 03:47:52.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Briian22[/127.112.79.233:34259] logged in with entity id 96110 at (45.42000177288516, -44.0, 410.69999998807907)
-[19Feb2025 03:47:52.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 joined the game
-[19Feb2025 03:47:56.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Briian22 lost connection: Disconnected
-[19Feb2025 03:47:56.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 left the game
-[19Feb2025 03:54:12.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Briian22[/127.112.79.233:58705] logged in with entity id 97471 at (45.42000177288516, -44.0, 410.69999998807907)
-[19Feb2025 03:54:12.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 joined the game
-[19Feb2025 04:08:20.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Cover Me with Diamonds]
-[19Feb2025 04:14:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Voluntary Exile]
-[19Feb2025 04:15:30.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [The Parrots and the Bats]
-[19Feb2025 04:22:47.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Sweet Dreams]
-[19Feb2025 04:22:49.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> eadad
-[19Feb2025 04:22:52.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> componente
-[19Feb2025 04:23:01.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> namanaka
-[19Feb2025 04:24:45.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Best Friends Forever]
-[19Feb2025 04:27:02.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [What a Deal!]
-[19Feb2025 04:32:53.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Hot Stuff]
-[19Feb2025 04:34:29.850] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/95631, l='ServerLevel[world]', x=211.43, y=64.00, z=206.38] died, message: 'Villager was slain by JoseAlvarez'
-[19Feb2025 04:35:07.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.2800651359645201
-[19Feb2025 04:35:07.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.7347895563689235
-[19Feb2025 04:40:02.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/98459, l='ServerLevel[world]', x=211.30, y=64.00, z=206.48] died, message: 'Villager was slain by JoseAlvarez'
-[19Feb2025 04:48:07.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.25378240477161285
-[19Feb2025 04:48:07.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.7912138590081668
-[19Feb2025 04:48:07.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.3424188183581407
-[19Feb2025 04:48:07.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.8973308979348076
-[19Feb2025 04:48:07.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5036638014690595
-[19Feb2025 04:48:07.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.0638213156871354
-[19Feb2025 04:48:07.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.63556081685084
-[19Feb2025 04:48:07.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5054787489530952
-[19Feb2025 04:48:07.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5037749387048299
-[19Feb2025 04:48:07.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.075840627761336
-[19Feb2025 04:48:07.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5022600558547617
-[19Feb2025 04:48:07.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.0763636144118323
-[19Feb2025 04:48:07.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.6587946214104567
-[19Feb2025 04:48:07.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5029632085435166
-[19Feb2025 04:48:07.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.077473662818834
-[19Feb2025 04:48:07.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5032506784148478
-[19Feb2025 04:48:07.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.0777369898654259
-[19Feb2025 04:48:07.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5087182795516867
-[19Feb2025 04:48:07.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5117122072317102
-[19Feb2025 04:48:08.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.0783168448407423
-[19Feb2025 04:48:08.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.647071258867669
-[19Feb2025 04:48:08.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5177171637652123
-[19Feb2025 04:48:08.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5192181136910676
-[19Feb2025 04:48:08.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.0918871528732268
-[19Feb2025 04:48:08.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.5088393897853223
-[19Feb2025 04:48:08.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.0438157300052304
-[19Feb2025 04:48:08.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.5650711810055866
-[19Feb2025 04:48:08.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.42209901567409136
-[19Feb2025 04:48:08.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.9682798596299521
-[19Feb2025 04:48:08.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.4055018940260593
-[19Feb2025 04:48:08.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.3983406005756087
-[19Feb2025 04:48:08.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.9617193789445102
-[19Feb2025 04:48:08.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.5297932636917644
-[19Feb2025 04:48:08.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.39829687639808486
-[19Feb2025 04:48:08.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.4013752675309326
-[19Feb2025 04:48:08.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.9619410909367243
-[19Feb2025 04:48:08.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 1.4843124802428174
-[19Feb2025 04:50:59.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Ice Bucket Challenge]
-[19Feb2025 04:54:12.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [What a Deal!]
-[19Feb2025 04:58:10.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [We Need to Go Deeper]
-[19Feb2025 04:58:11.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3169ms or 63 ticks behind
+[20Feb2025 22:39:05.675] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[20Feb2025 22:39:05.678] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[20Feb2025 22:39:05.679] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[20Feb2025 22:39:05.748] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[20Feb2025 22:39:05.832] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[20Feb2025 22:39:06.099] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[20Feb2025 22:39:06.709] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[20Feb2025 22:39:06.941] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[20Feb2025 22:39:07.024] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[20Feb2025 22:39:12.055] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[20Feb2025 22:39:12.056] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[20Feb2025 22:39:12.071] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[20Feb2025 22:39:12.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Feb2025 22:39:13.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 53.0.25 Target: 53.0.53
+[20Feb2025 22:39:13.706] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20Feb2025 22:39:15.869] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
+[20Feb2025 22:39:15.888] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
+[20Feb2025 22:39:16.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[20Feb2025 22:39:16.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Feb2025 22:39:16.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Feb2025 22:39:16.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Feb2025 22:39:16.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Feb2025 22:39:16.216] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Feb2025 22:39:16.261] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Feb2025 22:39:16.262] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Feb2025 22:39:16.262] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Feb2025 22:39:16.262] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Feb2025 22:39:16.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Feb2025 22:39:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Feb2025 22:39:19.090] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 22:39:19.091] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 22:39:19.092] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 22:39:19.094] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 22:39:19.094] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 22:39:19.094] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 22:39:19.382] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2839 ms
+[20Feb2025 22:39:19.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.110s)! For help, type "help"
+[20Feb2025 22:39:19.397] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Feb2025 22:39:43.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.247.194.150:33443] logged in with entity id 13 at (564.9496518676186, 67.0, -105.69999998807907)
+[20Feb2025 22:39:43.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
+[20Feb2025 22:40:52.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> op ElMache
+[20Feb2025 22:41:18.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ElMache a server operator
+[20Feb2025 22:41:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElMache: Set own game mode to Creative Mode]
+[20Feb2025 22:41:30.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElMache: Set own game mode to Survival Mode]
+[20Feb2025 22:42:28.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=546, y=64, z=-72} BlockPos{x=546, y=62, z=-71}
+[20Feb2025 22:42:47.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
+[20Feb2025 22:42:47.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
+[20Feb2025 22:43:47.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[20Feb2025 22:43:57.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.247.194.150:54453] logged in with entity id 788 at (511.7341126586562, 64.0, -5.0609564476808)
+[20Feb2025 22:43:57.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
+[20Feb2025 22:44:52.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
+[20Feb2025 22:44:52.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
+[20Feb2025 22:45:52.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
