@@ -42,3 +42,9 @@
 [21Feb2025 01:19:39.532] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [21Feb2025 01:19:54.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.247.194.150:45579] logged in with entity id 12 at (221.7646695946756, 64.0, 202.81206925692916)
 [21Feb2025 01:19:54.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
+[21Feb2025 01:33:25.536] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/43, l='ServerLevel[world]', x=207.25, y=64.00, z=205.07] died, message: 'Librarian burned to death'
+[21Feb2025 01:37:53.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
+[21Feb2025 01:37:53.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
+[21Feb2025 01:38:53.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[21Feb2025 01:39:03.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Feb2025 01:39:03.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Backup<--[HERE]
