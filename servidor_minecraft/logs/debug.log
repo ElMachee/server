@@ -703,3 +703,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Feb2025 00:49:32.589] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4498, l='ServerLevel[world]', x=212.05, y=64.00, z=216.49] died, message: 'Villager was slain by ElMache'
 [21Feb2025 00:53:15.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Feb2025 00:53:15.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 00:58:08.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/4461, l='ServerLevel[world]', x=211.70, y=64.00, z=206.60] died, message: 'Librarian was slain by ElMache'
+[21Feb2025 00:58:15.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 00:58:15.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 01:03:15.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 01:03:15.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

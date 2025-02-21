@@ -57,3 +57,4 @@
 [21Feb2025 00:39:24.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache has made the advancement [We Need to Go Deeper]
 [21Feb2025 00:43:59.908] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/4493, l='ServerLevel[world]', x=211.69, y=64.00, z=208.69] died, message: 'Librarian was burned to a crisp while fighting Zombie'
 [21Feb2025 00:49:32.589] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4498, l='ServerLevel[world]', x=212.05, y=64.00, z=216.49] died, message: 'Villager was slain by ElMache'
+[21Feb2025 00:58:08.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/4461, l='ServerLevel[world]', x=211.70, y=64.00, z=206.60] died, message: 'Librarian was slain by ElMache'
